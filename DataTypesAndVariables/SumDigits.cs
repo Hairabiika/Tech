@@ -10,7 +10,6 @@
             int number = int.Parse(Console.ReadLine());
             int sameNumber = number;
             int sum = 0;
-
             while (number > 0)
             {
                 sum += number % 10;
