@@ -3,7 +3,7 @@
     using System;
     using System.Linq;
 
-    public class EncryptAndSort
+    public class PascalTriangle
     {
         public static void Main(string[] args)
         {
