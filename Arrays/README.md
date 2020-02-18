@@ -1,1 +1,1 @@
-Basic arrays in C#
+Basic arrays
