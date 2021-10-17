@@ -1,1 +1,1 @@
-Basic arrays
+Basic arrays excercises
