@@ -11,6 +11,7 @@
                                 .Split()
                                 .Select(int.Parse)
                                 .ToArray();
+            
             int maxLength = 0;
             int lastIndex = -1;
             int[] len = new int[nums.Length];
